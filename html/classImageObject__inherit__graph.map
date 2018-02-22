@@ -1,7 +1,0 @@
-<map id="ImageObject" name="ImageObject">
-<area shape="rect" id="node4" href="$classBall.html" title="The Ball class. " alt="" coords="5,596,152,776"/>
-<area shape="rect" id="node5" href="$classBrick.html" title="The Brick class. " alt="" coords="176,623,312,749"/>
-<area shape="rect" id="node6" href="$classPlayer.html" title="The player class ie: the paddle. " alt="" coords="336,643,421,729"/>
-<area shape="rect" id="node2" href="$classRenderObject.html" title="A RenderObject class. " alt="" coords="182,300,306,427"/>
-<area shape="rect" id="node3" href="$classGameObject.html" title="A GameObject class. " alt="" coords="186,5,302,252"/>
-</map>

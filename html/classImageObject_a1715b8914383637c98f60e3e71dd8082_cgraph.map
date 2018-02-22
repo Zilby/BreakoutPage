@@ -1,4 +1,0 @@
-<map id="ImageObject::ImageObject" name="ImageObject::ImageObject">
-<area shape="rect" id="node2" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="242,5,430,31"/>
-<area shape="rect" id="node3" href="$classResourceManager.html#af6acc3cc0d466928c6914061134b828e" title="Loads an image from the given path Uses the stored image if already loaded. " alt="" coords="233,55,438,80"/>
-</map>

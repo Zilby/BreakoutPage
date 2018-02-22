@@ -1,5 +1,0 @@
-<map id="Brick" name="Brick">
-<area shape="rect" id="node2" href="$classImageObject.html" title="An ImageObject class. " alt="" coords="15,475,132,548"/>
-<area shape="rect" id="node3" href="$classRenderObject.html" title="A RenderObject class. " alt="" coords="12,300,136,427"/>
-<area shape="rect" id="node4" href="$classGameObject.html" title="A GameObject class. " alt="" coords="15,5,132,252"/>
-</map>

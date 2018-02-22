@@ -1,6 +1,0 @@
-<map id="BreakoutManager::GameEnd" name="BreakoutManager::GameEnd">
-<area shape="rect" id="node2" href="$classSoundManager.html#aae4237247bd8f6beae2c042411c903a8" title="The singleton instance of the SoundManager. " alt="" coords="256,5,425,31"/>
-<area shape="rect" id="node3" href="$classSoundManager.html#aad0dc203e77d0bb1fee309664e180106" title="Plays the given sound the given number of times. " alt="" coords="248,55,433,80"/>
-<area shape="rect" id="node4" href="$classLocaleManager.html#a658afb558d82f9859b7764b33dcef950" title="The singleton instance of the LocaleManager. " alt="" coords="255,104,425,129"/>
-<area shape="rect" id="node5" href="$classConfigParser.html#acdea85a9beb2d0c65d82ca1b347867b6" title="Gets the default localization from the default locale file. " alt="" coords="481,104,666,129"/>
-</map>

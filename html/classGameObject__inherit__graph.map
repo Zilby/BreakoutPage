@@ -1,9 +1,0 @@
-<map id="GameObject" name="GameObject">
-<area shape="rect" id="node2" href="$classBreakoutManager.html" title="The manager for the breakout game. " alt="" coords="80,300,227,587"/>
-<area shape="rect" id="node3" href="$classRenderObject.html" title="A RenderObject class. " alt="" coords="251,380,375,507"/>
-<area shape="rect" id="node4" href="$classImageObject.html" title="An ImageObject class. " alt="" coords="185,661,303,735"/>
-<area shape="rect" id="node8" href="$classTextObject.html" title="A TextObject class. " alt="" coords="326,635,439,761"/>
-<area shape="rect" id="node5" href="$classBall.html" title="The Ball class. " alt="" coords="5,809,152,989"/>
-<area shape="rect" id="node6" href="$classBrick.html" title="The Brick class. " alt="" coords="176,836,312,963"/>
-<area shape="rect" id="node7" href="$classPlayer.html" title="The player class ie: the paddle. " alt="" coords="336,856,421,943"/>
-</map>
