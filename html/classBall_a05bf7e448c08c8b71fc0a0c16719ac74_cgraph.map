@@ -1,0 +1,4 @@
+<map id="Ball::Ball" name="Ball::Ball">
+<area shape="rect" id="node2" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="136,5,324,31"/>
+<area shape="rect" id="node3" href="$classResourceManager.html#a0bdf3bde3f0e83cc737f3623f4db0325" title="Loads a sound from the given path Uses the stored sound if already loaded. " alt="" coords="127,55,333,80"/>
+</map>

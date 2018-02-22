@@ -1,0 +1,4 @@
+<map id="Ball::DoBrickCollision" name="Ball::DoBrickCollision">
+<area shape="rect" id="node2" href="$classBall.html#a9f589ce4d407481f1662996121a175b0" title="Collides with the given ImageObject g if their rects intersect and redirects the movement of the ball..." alt="" coords="201,5,320,31"/>
+<area shape="rect" id="node3" href="$classRenderObject.html#ad6cfe2eaef6bfc44dcfe209d5da20ab2" title="Builds and returns the rect for this RenderObject. " alt="" coords="368,5,536,31"/>
+</map>

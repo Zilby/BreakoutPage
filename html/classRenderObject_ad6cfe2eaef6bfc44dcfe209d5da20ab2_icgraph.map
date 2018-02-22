@@ -1,0 +1,5 @@
+<map id="RenderObject::BuildRect" name="RenderObject::BuildRect">
+<area shape="rect" id="node2" href="$classBall.html#a9f589ce4d407481f1662996121a175b0" title="Collides with the given ImageObject g if their rects intersect and redirects the movement of the ball..." alt="" coords="221,31,340,56"/>
+<area shape="rect" id="node3" href="$classBall.html#ab1f41327960619f24e2aefadc7a47d5e" title="Collides with the given Player p if they are active. " alt="" coords="388,5,544,31"/>
+<area shape="rect" id="node4" href="$classBall.html#a376d31906985ba474ebe1e54629b50a7" title="Collides with the given Brick b if they are active and destroys the brick. " alt="" coords="392,55,540,80"/>
+</map>
