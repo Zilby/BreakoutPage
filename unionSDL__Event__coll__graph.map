@@ -1,0 +1,29 @@
+<map id="SDL_Event" name="SDL_Event">
+<area shape="rect" id="node2" href="$structSDL__JoyDeviceEvent.html" title="Joystick device event structure (event.jdevice. " alt="" coords="5,388,156,488"/>
+<area shape="rect" id="node3" href="$structSDL__JoyHatEvent.html" title="Joystick hat position change event structure (event.jhat. " alt="" coords="179,361,310,515"/>
+<area shape="rect" id="node4" href="$structSDL__TextEditingEvent.html" title="Keyboard text editing event structure (event.edit. " alt="" coords="334,368,488,508"/>
+<area shape="rect" id="node5" href="$structSDL__MultiGestureEvent.html" title="Multiple Finger Gesture Event (event.mgesture. " alt="" coords="512,348,676,528"/>
+<area shape="rect" id="node6" href="$structSDL__UserEvent.html" title="A user&#45;defined event type (event.user. " alt="" coords="699,368,816,508"/>
+<area shape="rect" id="node7" href="$structSDL__CommonEvent.html" title="Fields shared by every event. " alt="" coords="840,395,983,481"/>
+<area shape="rect" id="node8" href="$structSDL__MouseMotionEvent.html" title="Mouse motion event structure (event.motion. " alt="" coords="1007,348,1176,528"/>
+<area shape="rect" id="node9" href="$structSDL__TextInputEvent.html" title="Keyboard text input event structure (event.text. " alt="" coords="1200,381,1343,495"/>
+<area shape="rect" id="node10" href="$structSDL__KeyboardEvent.html" title="Keyboard button event structure (event.key. " alt="" coords="1366,361,1512,515"/>
+<area shape="rect" id="node11" href="$structSDL__Keysym.html" title="The SDL keysym structure, used in key events. " alt="" coords="1388,167,1490,280"/>
+<area shape="rect" id="node12" href="$structSDL__JoyButtonEvent.html" title="Joystick button event structure (event.jbutton. " alt="" coords="1536,361,1684,515"/>
+<area shape="rect" id="node13" href="$structSDL__SysWMEvent.html" title="A video driver dependent system event (event.syswm. " alt="" coords="1708,395,1842,481"/>
+<area shape="rect" id="node14" href="$structSDL__SysWMmsg.html" title="The custom event structure. " alt="" coords="1712,167,1838,280"/>
+<area shape="rect" id="node15" href="$structSDL__version.html" title="Information the version of SDL in use. " alt="" coords="1726,5,1824,105"/>
+<area shape="rect" id="node16" href="$structSDL__QuitEvent.html" title="The &quot;quit requested&quot; event. " alt="" coords="1867,395,1980,481"/>
+<area shape="rect" id="node17" href="$structSDL__AudioDeviceEvent.html" title="Audio device event structure (event.adevice. " alt="" coords="2004,361,2168,515"/>
+<area shape="rect" id="node18" href="$structSDL__ControllerDeviceEvent.html" title="Controller device event structure (event.cdevice. " alt="" coords="2192,388,2379,488"/>
+<area shape="rect" id="node19" href="$structSDL__JoyBallEvent.html" title="Joystick trackball motion event structure (event.jball. " alt="" coords="2404,348,2536,528"/>
+<area shape="rect" id="node20" href="$structSDL__MouseWheelEvent.html" title="Mouse wheel event structure (event.wheel. " alt="" coords="2560,361,2726,515"/>
+<area shape="rect" id="node21" href="$structSDL__DollarGestureEvent.html" title="Dollar Gesture Event (event.dgesture. " alt="" coords="2751,355,2922,521"/>
+<area shape="rect" id="node22" href="$structSDL__TouchFingerEvent.html" title="Touch finger event structure (event.tfinger. " alt="" coords="2946,348,3108,528"/>
+<area shape="rect" id="node23" href="$structSDL__ControllerButtonEvent.html" title="Game controller button event structure (event.cbutton. " alt="" coords="3132,361,3317,515"/>
+<area shape="rect" id="node24" href="$structSDL__MouseButtonEvent.html" title="Mouse button event structure (event.button. " alt="" coords="3341,341,3508,535"/>
+<area shape="rect" id="node25" href="$structSDL__WindowEvent.html" title="Window state change event data (event.window. " alt="" coords="3532,348,3669,528"/>
+<area shape="rect" id="node26" href="$structSDL__ControllerAxisEvent.html" title="Game controller axis motion event structure (event.caxis. " alt="" coords="3692,348,3864,528"/>
+<area shape="rect" id="node27" href="$structSDL__JoyAxisEvent.html" title="Joystick axis motion event structure (event.jaxis. " alt="" coords="3888,348,4023,528"/>
+<area shape="rect" id="node28" href="$structSDL__DropEvent.html" title="An event used to request a file open by the system (event.drop. " alt="" coords="4047,381,4165,495"/>
+</map>

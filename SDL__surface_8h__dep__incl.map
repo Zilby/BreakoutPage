@@ -1,0 +1,36 @@
+<map id="ThirdParty/include/SDL2/SDL_surface.h" name="ThirdParty/include/SDL2/SDL_surface.h">
+<area shape="rect" id="node2" href="$SDL__video_8h.html" title="Header file for SDL video functions. " alt="" coords="682,92,820,131"/>
+<area shape="rect" id="node33" href="$SDL__shape_8h.html" title="Header file for the shaped window API. " alt="" coords="1167,179,1310,217"/>
+<area shape="rect" id="node3" href="$SDL__events_8h.html" title="Include file for SDL event handling. " alt="" coords="215,352,361,391"/>
+<area shape="rect" id="node4" href="$SDL_8h.html" title="Main include header for the SDL library. " alt="" coords="873,439,1002,477"/>
+<area shape="rect" id="node26" href="$SDL__keyboard_8h.html" title="Include file for SDL keyboard event handling. " alt="" coords="321,179,482,217"/>
+<area shape="rect" id="node27" href="$SDL__system_8h.html" title="Include file for platform specific SDL API functions. " alt="" coords="687,265,836,304"/>
+<area shape="rect" id="node28" href="$SDL__mouse_8h.html" title="Include file for SDL mouse event handling. " alt="" coords="270,265,416,304"/>
+<area shape="rect" id="node29" href="$SDL__gesture_8h.html" title="Include file for SDL gesture event handling. " alt="" coords="43,265,194,304"/>
+<area shape="rect" id="node30" href="$SDL__touch_8h.html" title="Include file for SDL touch event handling. " alt="" coords="5,179,145,217"/>
+<area shape="rect" id="node31" href="$SDL__messagebox_8h_source.html" title="ThirdParty/include\l/SDL2/SDL_messagebox.h" alt="" coords="911,352,1093,391"/>
+<area shape="rect" id="node32" href="$SDL__render_8h.html" title="Header file for SDL 2D rendering functions. " alt="" coords="897,179,1042,217"/>
+<area shape="rect" id="node34" href="$SDL__syswm_8h.html" title="Include file for SDL custom system window manager hooks. " alt="" coords="507,179,654,217"/>
+<area shape="rect" id="node35" href="$SDL__vulkan_8h.html" title="Header file for functions to creating Vulkan surfaces on SDL windows. " alt="" coords="678,179,823,217"/>
+<area shape="rect" id="node5" href="$GameObject_8hpp_source.html" title="include/GameObject.hpp" alt="" coords="452,532,620,557"/>
+<area shape="rect" id="node16" href="$SDLTextureWrapper_8hpp_source.html" title="include/SDLTextureWrapper.hpp" alt="" coords="64,532,276,557"/>
+<area shape="rect" id="node18" href="$InputManager_8hpp_source.html" title="include/InputManager.hpp" alt="" coords="645,532,820,557"/>
+<area shape="rect" id="node19" href="$RenderManager_8hpp_source.html" title="include/RenderManager.hpp" alt="" coords="843,532,1032,557"/>
+<area shape="rect" id="node20" href="$SDL__test_8h.html" title="Include file for SDL test framework. " alt="" coords="1241,699,1370,737"/>
+<area shape="rect" id="node21" href="$SDL__test__common_8h.html" title="Include file for SDL test framework. " alt="" coords="1107,612,1294,651"/>
+<area shape="rect" id="node22" href="$SDL__test__compare_8h.html" title="Include file for SDL test framework. " alt="" coords="1317,612,1505,651"/>
+<area shape="rect" id="node23" href="$SDL__test__images_8h.html" title="Include file for SDL test framework. " alt="" coords="1322,525,1500,564"/>
+<area shape="rect" id="node24" href="$SDL__ttf_8h_source.html" title="ThirdParty/include\l/SDL2/SDL_ttf.h" alt="" coords="300,525,429,564"/>
+<area shape="rect" id="node6" href="$RenderObject_8hpp_source.html" title="include/RenderObject.hpp" alt="" coords="449,619,624,644"/>
+<area shape="rect" id="node15" href="$GameWorld_8hpp_source.html" title="include/GameWorld.hpp" alt="" coords="748,785,912,811"/>
+<area shape="rect" id="node7" href="$ImageObject_8hpp_source.html" title="include/ImageObject.hpp" alt="" coords="459,705,627,731"/>
+<area shape="rect" id="node14" href="$TextObject_8hpp_source.html" title="include/TextObject.hpp" alt="" coords="278,705,434,731"/>
+<area shape="rect" id="node8" href="$Brick_8hpp_source.html" title="include/Brick.hpp" alt="" coords="580,785,703,811"/>
+<area shape="rect" id="node9" href="$Ball_8hpp_source.html" title="include/Ball.hpp" alt="" coords="452,859,567,884"/>
+<area shape="rect" id="node13" href="$Player_8hpp_source.html" title="include/Player.hpp" alt="" coords="375,785,505,811"/>
+<area shape="rect" id="node10" href="$BreakoutManager_8hpp_source.html" title="include/BreakoutManager.hpp" alt="" coords="364,932,562,957"/>
+<area shape="rect" id="node11" href="$ConfigParser_8hpp_source.html" title="include/ConfigParser.hpp" alt="" coords="642,859,812,884"/>
+<area shape="rect" id="node12" href="$GameManager_8hpp_source.html" title="include/GameManager.hpp" alt="" coords="698,932,879,957"/>
+<area shape="rect" id="node17" href="$ResourceManager_8hpp_source.html" title="include/ResourceManager.hpp" alt="" coords="52,705,255,731"/>
+<area shape="rect" id="node25" href="$SDLFontWrapper_8hpp_source.html" title="include/SDLFontWrapper.hpp" alt="" coords="229,619,425,644"/>
+</map>

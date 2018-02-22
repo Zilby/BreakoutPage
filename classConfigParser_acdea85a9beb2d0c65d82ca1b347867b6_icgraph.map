@@ -1,0 +1,7 @@
+<map id="ConfigParser::defaultLocale" name="ConfigParser::defaultLocale">
+<area shape="rect" id="node2" href="$classLocaleManager.html#a658afb558d82f9859b7764b33dcef950" title="The singleton instance of the LocaleManager. " alt="" coords="239,52,410,77"/>
+<area shape="rect" id="node3" href="$classBreakoutManager.html#aabcee88281521441fa2c52688d56285e" title="Constructs the BreakoutManager. " alt="" coords="964,21,1152,60"/>
+<area shape="rect" id="node4" href="$classBreakoutManager.html#a2960488b90e3be46094495261bbdb21d" title="Called when the ball goes offscreen, decrements lives and may end the game. " alt="" coords="704,28,912,53"/>
+<area shape="rect" id="node5" href="$classBreakoutManager.html#a31052fb8e60c61b93ba686e171af5037" title="Called when a brick is destroyed adds to score and may end the game. " alt="" coords="700,77,916,103"/>
+<area shape="rect" id="node6" href="$classBreakoutManager.html#adc6f773f86ce97ff08b7130bac68dbea" title="Ends the game, sets the texts to the correct localizations and plays a sound effect. " alt="" coords="458,77,652,103"/>
+</map>
