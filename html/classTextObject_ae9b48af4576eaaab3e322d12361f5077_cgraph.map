@@ -1,4 +1,0 @@
-<map id="TextObject::TextObject" name="TextObject::TextObject">
-<area shape="rect" id="node2" href="$classResourceManager.html#a91756683167c290b33b7525881122940" title="The singleton instance of the ResourceManager. " alt="" coords="211,5,399,31"/>
-<area shape="rect" id="node3" href="$classResourceManager.html#a270e11b4fdc629fdc0afb421dbc9b10d" title="Loads a font from the given path in the given textSize Uses the stored font if already loaded..." alt="" coords="208,55,403,80"/>
-</map>

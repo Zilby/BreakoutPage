@@ -1,9 +1,0 @@
-<map id="SoundManager::PlaySound" name="SoundManager::PlaySound">
-<area shape="rect" id="node2" href="$classBall.html#a47cfc4862dad5db1ec0ffbfcc8aca739" title="Updates this GameObject. " alt="" coords="288,5,382,31"/>
-<area shape="rect" id="node3" href="$classBreakoutManager.html#adc6f773f86ce97ff08b7130bac68dbea" title="Ends the game, sets the texts to the correct localizations and plays a sound effect. " alt="" coords="238,55,433,80"/>
-<area shape="rect" id="node7" href="$classBrick.html#a84fd43eb4d5c31c6905344960830c9f9" title="Destroys the brick setting it inactive and calls the callback function. " alt="" coords="273,104,397,129"/>
-<area shape="rect" id="node8" href="$classGameManager.html#a849df8c09486d7c84f368d52716b56d2" title="Initializes the GameManager. " alt="" coords="268,153,402,179"/>
-<area shape="rect" id="node4" href="$classBreakoutManager.html#a2960488b90e3be46094495261bbdb21d" title="Called when the ball goes offscreen, decrements lives and may end the game. " alt="" coords="484,31,692,56"/>
-<area shape="rect" id="node6" href="$classBreakoutManager.html#a31052fb8e60c61b93ba686e171af5037" title="Called when a brick is destroyed adds to score and may end the game. " alt="" coords="481,80,696,105"/>
-<area shape="rect" id="node5" href="$classBreakoutManager.html#aabcee88281521441fa2c52688d56285e" title="Constructs the BreakoutManager. " alt="" coords="744,49,932,88"/>
-</map>

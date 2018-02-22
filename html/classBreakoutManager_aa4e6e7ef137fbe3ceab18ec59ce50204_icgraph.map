@@ -1,5 +1,0 @@
-<map id="BreakoutManager::GameEnd" name="BreakoutManager::GameEnd">
-<area shape="rect" id="node2" href="$classBreakoutManager.html#a2960488b90e3be46094495261bbdb21d" title="Called when the ball goes offscreen, decrements lives and may end the game. " alt="" coords="252,5,460,31"/>
-<area shape="rect" id="node4" href="$classBreakoutManager.html#a31052fb8e60c61b93ba686e171af5037" title="Called when a brick is destroyed adds to score and may end the game. " alt="" coords="248,55,464,80"/>
-<area shape="rect" id="node3" href="$classBreakoutManager.html#aabcee88281521441fa2c52688d56285e" title="Constructs the BreakoutManager. " alt="" coords="512,24,700,63"/>
-</map>

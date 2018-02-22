@@ -1,7 +1,0 @@
-<map id="Ball::DoPlayerCollision" name="Ball::DoPlayerCollision">
-<area shape="rect" id="node2" href="$classBall.html#a9f589ce4d407481f1662996121a175b0" title="Collides with the given ImageObject g if their rects intersect and redirects the movement of the ball..." alt="" coords="249,5,367,31"/>
-<area shape="rect" id="node4" href="$classInputManager.html#a06944dbb84f714fdb1c6d53ca18b6146" title="The singleton instance of the InputManager. " alt="" coords="228,55,388,80"/>
-<area shape="rect" id="node5" href="$classInputManager.html#a9d91ddbf2aef4a58f1fde2d0f150daf6" title="Gets whether or not the given action is held. " alt="" coords="210,104,407,129"/>
-<area shape="rect" id="node6" href="$classGameObject.html#ad0f63aa833016f178ab265a5bc1dbfc0" title="Gets the x position of this GameObject. " alt="" coords="231,153,385,179"/>
-<area shape="rect" id="node3" href="$classRenderObject.html#ad6cfe2eaef6bfc44dcfe209d5da20ab2" title="Builds and returns the rect for this RenderObject. " alt="" coords="455,5,623,31"/>
-</map>

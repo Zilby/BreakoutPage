@@ -1,6 +1,0 @@
-<map id="ResourceManager::LoadSound" name="ResourceManager::LoadSound">
-<area shape="rect" id="node2" href="$classBall.html#a05bf7e448c08c8b71fc0a0c16719ac74" title="Constructs a Ball. " alt="" coords="317,5,391,31"/>
-<area shape="rect" id="node3" href="$classBreakoutManager.html#aabcee88281521441fa2c52688d56285e" title="Constructs the BreakoutManager. " alt="" coords="260,55,448,93"/>
-<area shape="rect" id="node4" href="$classBrick.html#a2393f7d8f7b8a2e54eb821bf8b38fb90" title="Constructs a Brick. " alt="" coords="310,117,398,143"/>
-<area shape="rect" id="node5" href="$classGameManager.html#a849df8c09486d7c84f368d52716b56d2" title="Initializes the GameManager. " alt="" coords="287,167,421,192"/>
-</map>
